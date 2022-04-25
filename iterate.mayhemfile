@@ -1,0 +1,5 @@
+project: bson-rust
+target: iterate
+
+cmds:
+  - cmd: /iterate

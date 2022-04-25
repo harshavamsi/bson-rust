@@ -1,0 +1,5 @@
+project: bson-rust
+target: deserialize
+
+cmds:
+  - cmd: /deserialize

@@ -1,7 +1,0 @@
-project: bson-rust
-target: bson-rust
-
-cmds:
-  - cmd: /deserialize
-  - cmd: /iterate
-  - cmd: /raw_deserialize
